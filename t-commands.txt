@@ -1,0 +1,18 @@
+Terminal Commands
+
+
+cd -> By it's self returns you to the root. (cd folderName) changes the directory to the chosen path 
+cd .. -> goes back a step in the directory
+pwd -> List the current path of where you are
+ls -> Gives a list of all the directoies/files in the current directory
+mkdir -> Creates a new folder (mkdir react-jobs)
+touch -> Creates a new file (touch test.js)
+rm -> removes a file (rm test.js)
+rm -r -> removes a directory(folder)
+
+
+directory = folder
+
+press tab to auto complete for example-> cd r (press tab) completes it to-> cd react/
+
+nano to open a text file to work with in the terminal
